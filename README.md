@@ -1,4 +1,4 @@
-# Sahasi_Flutter
+# Sahasi_Flutter_SQLite
  A cross-platform women’s safety mobile  application using Flutter.
 
 Enabling simultaneous deployment on both Android and iOS. Unlike 
